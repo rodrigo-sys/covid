@@ -1,0 +1,1 @@
+/home/venus/Documents/code/covid/database/migrations/2020_09_29_011237_create_pacientes_table.php
