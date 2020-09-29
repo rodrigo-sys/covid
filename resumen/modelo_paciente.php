@@ -1,1 +1,0 @@
-/home/venus/Documents/code/covid/app/Models/Paciente.php

@@ -1,4 +1,0 @@
-php artisan make:migration create_pacientes_table --create="pacientes"
-php artisan migrate 
-php artisan make:controller PacientesController
-php artisan make:model Paciente
